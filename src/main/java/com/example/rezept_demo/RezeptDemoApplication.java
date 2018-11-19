@@ -8,5 +8,6 @@ public class RezeptDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(RezeptDemoApplication.class, args);
+        System.out.println("das ist ein test");
     }
 }
